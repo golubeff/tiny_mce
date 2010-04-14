@@ -69,9 +69,9 @@ module TinyMCE
     end
   end
 
-  module Base
-    include TinyMCE::SpellChecker
-  end
+  #module Base
+    #include TinyMCE::SpellChecker
+  #end
 end
 
 # Finally, lets include the TinyMCE base and helpers where

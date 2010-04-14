@@ -2,7 +2,7 @@
 require 'tiny_mce/base'
 require 'tiny_mce/exceptions'
 require 'tiny_mce/configuration'
-require 'tiny_mce/spell_checker'
+#require 'tiny_mce/spell_checker'
 require 'tiny_mce/helpers'
 
 module TinyMCE
